@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kei Kar👋
 
 👨‍💻  I’m a Master’s student in Software Engineering, passionate about learning, designing, and building efficient, scalable, and maintainable software solutions. As a full-time student, I’m actively engaged in coursework, refining my technical and problem-solving skills to tackle real-world software challenges.
 
